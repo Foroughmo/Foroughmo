@@ -1,5 +1,5 @@
 
-- # 👋 Hi, I’m @Foroughmo
+- # 👋 Hi, I’m Forough
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Generatve AI
 - 😄 Pronouns: she/her/hers
