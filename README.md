@@ -1,7 +1,7 @@
 
 - # 👋 Hi, I’m Forough
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Generatve AI
+- 🌱 Passionate about NLP / Generative AI 
 - 😄 Pronouns: she/her/hers
 - # 📫 How to reach me:
 - fmofidi@uchicago.edu
