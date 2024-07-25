@@ -3,9 +3,9 @@
 - 👀 I’m interested in Data Science
 - 🌱 Passionate about NLP / Generative AI 
 - 😄 Pronouns: she/her/hers
-- 📝 Currently working on 🦜️🔗 langchain 
-❤️ Love to read / watch / 
-📧 Reach me anytime:  fmofidi@uchicago.edu
+- 📝 Currently working on Gen-Ai Capstone Project
+-  ❤️ Love to read / watch   
+- 📧 Reach me anytime:  fmofidi@uchicago.edu
 
 
 ### Connect with Me:
