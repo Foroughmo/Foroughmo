@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 Passionate about NLP / Generative AI 
 - 😄 Pronouns: she/her/hers
-- 📝 Currently working on Gen-Ai Capstone Project
+- 📝 Currently working on Gen-AI Project
 -  ❤️ Love to read / watch   
 - 📧 Reach me anytime:  fmofidi@uchicago.edu
 
