@@ -9,7 +9,9 @@
 
 ### Connect with Me:
 
-[![](https://img.shields.io/badge/LinkedIn-yourname-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forough-mofidi)
+
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/forough-mofidi)
+
 
 
 
