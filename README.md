@@ -1,10 +1,11 @@
 
 - # 👋 Hi, I’m Forough
-- 👀 I’m interested in Data Science
-- 👤 Pronouns: she/her/hers
-- 📝 Currently working on Gen-AI Project
-- ❤️ Love to read / watch   
-- 📧 Reach me anytime:  fmofidi@uchicago.edu
+👩🏻‍💻 Data Scientist | Turning data into insights and ideas into solutions
+🤖 Currently building with Generative AI & AI Agents
+🔍 Curious about Machine Learning, NLP, and emerging AI technologies
+📚 Lifelong learner, book lover & movie enthusiast
+🌱 Always exploring, experimenting, and building something new
+👤 Pronouns: She/Her
 
 
 ### Connect with Me:
