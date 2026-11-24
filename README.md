@@ -1,10 +1,15 @@
 
 - # 👋 Hi, I’m Forough
 👩🏻‍💻 Data Scientist | Turning data into insights and ideas into solutions
+
 🤖 Currently building with Generative AI & AI Agents
+
 🔍 Curious about Machine Learning, NLP, and emerging AI technologies
+
 📚 Lifelong learner, book lover & movie enthusiast
+
 🌱 Always exploring, experimenting, and building something new
+
 👤 Pronouns: She/Her
 
 
